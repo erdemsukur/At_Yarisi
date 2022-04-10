@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\bin\Release\AtYarisi.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\bin\Release\AtYarisi.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Release\AtYarisi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Release\AtYarisi.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Release\AtYarisi.pdb

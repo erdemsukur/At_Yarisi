@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\bin\Debug\AtYarisi.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\bin\Debug\AtYarisi.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\AtYarisi.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\AtYarisi.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\AtYarisi.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AtYarisi\AtYarisi\obj\x86\Debug\AtYarisi.csprojResolveAssemblyReference.cache
